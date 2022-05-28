@@ -1,5 +1,6 @@
 [package]
 name = "lzma-rust-node"
+description = "Compression and decomression of LZMA in the browser with WebAssembly"
 version = "0.1.1"
 authors = ["Evelyn Gordon <evelyn.gordon20@gmail.com>"]
 license = "MIT"
